@@ -10,6 +10,8 @@ Code and documents for running a program which is designed to automatically grad
 Require a tool to run python code (eg: Pycharm, VScode)
 
 **Usage instructions:**
-1. 
+Open python file in format .py in this folder to run program.
+
+
 
 
