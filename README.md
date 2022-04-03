@@ -7,7 +7,7 @@ Code and documents for running a program which is designed to automatically grad
 3. Output is the result files in format .txt (eg: class1_grade_txt) which are exported from program, contain student identification number and their grade.
 
 **Installation instructions:**
-
+Require a tool to run python code (eg: Pycharm, VScode)
 
 **Usage instructions:**
 1. 
